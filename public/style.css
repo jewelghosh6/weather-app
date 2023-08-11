@@ -1,0 +1,16 @@
+cotainer 
+{
+    background-color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    align-items: center;
+
+
+}
+body
+{
+    background: linear-gradient(to right,rgb(255,167,35),rgb(255,97,35));
+    display: flex;
+    text-align: center;
+    min-height: 100px;
+}
